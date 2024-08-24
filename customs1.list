@@ -1,2 +1,3 @@
-DOMAIN-KEYWORD,btnull
-DOMAIN-KEYWORD,hostloc
+payload:
+  - DOMAIN-KEYWORD,btnull
+  - DOMAIN-KEYWORD,hostloc
