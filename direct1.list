@@ -2,4 +2,5 @@ payload:
 - PROCESS-NAME,tailscale
 - PROCESS-NAME,tailscaled
 - PROCESS-NAME,ddns-go
+- DOMAIN-KEYWORD,1password
 ;- DOMAIN-SUFFIX,onmicrosoft.cn
