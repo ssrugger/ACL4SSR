@@ -4,3 +4,6 @@ payload:
 - PROCESS-NAME,ddns-go
 - DOMAIN-KEYWORD,1password
 ;- DOMAIN-SUFFIX,onmicrosoft.cn
+
+; For Adobe
+- DOMAIN-KEYWORD,adobe
