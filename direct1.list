@@ -6,4 +6,4 @@ payload:
 ;- DOMAIN-SUFFIX,onmicrosoft.cn
 
 ; For Adobe
-- DOMAIN-KEYWORD,adobe
+;- DOMAIN-KEYWORD,adobe
