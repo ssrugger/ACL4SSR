@@ -2,3 +2,4 @@ payload:
   - DOMAIN-KEYWORD,btnull
   - DOMAIN-KEYWORD,hostloc
   - DOMAIN-SUFFIX,tutu.pm
+  - DOMAIN-SUFFIX,edu
