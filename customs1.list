@@ -3,3 +3,4 @@ payload:
   - DOMAIN-KEYWORD,hostloc
   - DOMAIN-SUFFIX,tutu.pm
   - DOMAIN-SUFFIX,edu
+  - DOMAIN-SUFFIX,duosecurity.com
