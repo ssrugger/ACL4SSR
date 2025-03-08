@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,bagevm.com
   - DOMAIN-SUFFIX,mokeedev.com
   - DOMAIN-SUFFIX,images.steamusercontent.com
+  - DOMAIN-SUFFIX,epicgames.com
