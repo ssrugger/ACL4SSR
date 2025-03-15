@@ -7,6 +7,6 @@ payload:
   - DOMAIN,onedrive.live.com
   - DOMAIN-SUFFIX,bagevm.com
   - DOMAIN-SUFFIX,mokeedev.com
-  - DOMAIN-SUFFIX,images.steamusercontent.com
-  - DOMAIN-SUFFIX,epicgames.com
-  - DOMAIN-SUFFIX,unrealengine.com
+  #- DOMAIN-SUFFIX,images.steamusercontent.com
+  #- DOMAIN-SUFFIX,epicgames.com
+  #- DOMAIN-SUFFIX,unrealengine.com
