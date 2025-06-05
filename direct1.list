@@ -10,3 +10,5 @@ payload:
 
 ; For Adobe
 ;- DOMAIN-KEYWORD,adobe
+
+- DST-PORT,3478
