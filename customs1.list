@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,mokeedev.com
   - DOMAIN-SUFFIX,250.ac.cn
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,immersivetranslate.com
   #- DOMAIN-SUFFIX,images.steamusercontent.com
   #- DOMAIN-SUFFIX,epicgames.com
   #- DOMAIN-SUFFIX,unrealengine.com
