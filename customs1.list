@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,deepseek.com
   - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,hdhome.org
   #- DOMAIN-SUFFIX,images.steamusercontent.com
   #- DOMAIN-SUFFIX,epicgames.com
   #- DOMAIN-SUFFIX,unrealengine.com
